@@ -1,0 +1,2 @@
+Contains the gazetteer for India, compiled using place names from GeoNames Server, Census file for India, etc.
+This also contains the hierarchical information about the place names
