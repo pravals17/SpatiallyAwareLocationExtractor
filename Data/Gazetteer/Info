@@ -1,2 +1,5 @@
-Contains the gazetteer for India, compiled using place names from GeoNames Server, Census file for India, etc.
-This also contains the hierarchical information about the place names
+The gazetteer used in this research for India are not included in this repository due to large size. However, you can easily download the gazetteer from the following sources:
+
+You can download gazetteer and census data from GeoNames (http://www.geonames.org/about.html) and the official census website (https://censusindia.gov.in/census.website/), respectively.
+
+Please note that the gazetteer from Geonames is regularly updated and may offer more comprehensive information than what was utilized during the development of this algorithm.
